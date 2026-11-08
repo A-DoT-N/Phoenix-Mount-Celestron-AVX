@@ -1,11 +1,9 @@
-extern "C"{
-    void app_main(void);
+extern "C" {
+void app_main(void);
 }
 
-void app_main(void)
-{
-    while (1)
-    {
-        /* code */
-    }
+void app_main(void) {
+  while (1) {
+    /* code */
+  }
 }
